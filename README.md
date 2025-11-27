@@ -1,6 +1,6 @@
 # Cod Reducere Notino
 
-O colecție de coduri de reducere Notino. Le folosim pentru testarea cuvintelor cheie cod reducere Notino, voucher Notino, cupon Notino, și cod promotional Notino de pe Cuponescu.ro.
+O colecție de coduri de reducere Notino. Le folosim pentru testarea cuvintelor cheie [cod reducere Notino](https://cuponescu.ro/magazin/notino), [voucher Notino](https://cuponescu.ro/magazin/notino), [cupon Notino](https://cuponescu.ro/magazin/notino), și [cod promotional Notino](https://cuponescu.ro/magazin/notino) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-notino a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
